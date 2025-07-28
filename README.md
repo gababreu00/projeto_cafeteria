@@ -33,7 +33,7 @@ O projeto é dividido nas seguintes etapas:
 - Conversão do MER para o modelo relacional com definição de tabelas, atributos, chaves primárias e estrangeiras.  
 
 ![](https://raw.githubusercontent.com/gababreu00/projeto_cafeteria/refs/heads/main/img/Mapeamento%20Caf%C3%A9%20Aroma1%20v2.png)
-![](https://raw.githubusercontent.com/gababreu00/projeto_cafeteria/refs/heads/main/img/Mapeamento%20Caf%C3%A9%20Aroma%202.png)
+![](https://raw.githubusercontent.com/gababreu00/projeto_cafeteria/refs/heads/main/img/Mapeamento%20Caf%C3%A9%20Aroma%202%20v2.png)
 ![](https://github.com/gababreu00/projeto_cafeteria/blob/main/img/Mapeamento%20Caf%C3%A9%20Aroma%203.png)
 
 ### 3️⃣ **Banco de Dados Físico (SQL)**  
